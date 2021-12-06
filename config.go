@@ -108,6 +108,3 @@ decrement_master = "Control-bracketleft"
 `
 # Sets the maximum number of windows horizontally
 horizontal_windows = 2
-
-# Sets the maximum number of windows vertically
-vertical_windows = 2
